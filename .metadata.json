@@ -1,0 +1,18 @@
+[
+  {
+    "package": "fivethirtyeight",
+    "oncran": true
+  },
+  {
+    "package": "forestecology",
+    "oncran": true
+  },
+  {
+    "package": "resampledata",
+    "oncran": true
+  },
+  {
+    "package": "SpatialEpi",
+    "oncran": true
+  }
+]
