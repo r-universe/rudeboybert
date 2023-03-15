@@ -1,18 +1,18 @@
 [
   {
-    "package": "forestecology",
-    "oncran": true
-  },
-  {
     "package": "fivethirtyeight",
     "oncran": true
   },
   {
-    "package": "SpatialEpi",
+    "package": "forestecology",
     "oncran": true
   },
   {
     "package": "resampledata",
+    "oncran": true
+  },
+  {
+    "package": "SpatialEpi",
     "oncran": true
   }
 ]

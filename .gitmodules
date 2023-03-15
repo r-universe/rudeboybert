@@ -3,23 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "forestecology"]
-	path = forestecology
-	url = https://github.com/rudeboybert/forestecology
-	shallow = true
-	registered = true
 [submodule "fivethirtyeight"]
 	path = fivethirtyeight
 	url = https://github.com/rudeboybert/fivethirtyeight
 	shallow = true
 	registered = true
-[submodule "SpatialEpi"]
-	path = SpatialEpi
-	url = https://github.com/rudeboybert/spatialepi
+[submodule "forestecology"]
+	path = forestecology
+	url = https://github.com/rudeboybert/forestecology
 	shallow = true
 	registered = true
 [submodule "resampledata"]
 	path = resampledata
 	url = https://github.com/rudeboybert/resampledata
+	shallow = true
+	registered = true
+[submodule "SpatialEpi"]
+	path = SpatialEpi
+	url = https://github.com/rudeboybert/spatialepi
 	shallow = true
 	registered = true
